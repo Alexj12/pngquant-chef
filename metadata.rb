@@ -1,6 +1,6 @@
 name             "pngquant"
 description      "Installs pngquant"
-version          "0.0.1"
+version          "0.1.0"
 
 recipe "pngquant", "Installs pngquant"
 
